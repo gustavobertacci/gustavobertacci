@@ -2,8 +2,7 @@
 
 🎓 Graduated in Systems Analysis and Development  
 💻 Passionate about back-end development  
-🚀 Currently studying C#  
-📦 Building projects with GitHub Actions and Entity Framework  
+🚀 Currently studying C#    
 🔍 Looking for my first opportunity in the tech industry  
 
 ---

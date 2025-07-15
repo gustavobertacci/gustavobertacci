@@ -5,8 +5,6 @@
 🚀 Currently studying C#  
 📦 Building projects with GitHub Actions and Entity Framework  
 🔍 Looking for my first opportunity in the tech industry  
-📫 Contact: gustavobertacci@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/gustavo-bertacci)
 
 ---
 
